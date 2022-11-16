@@ -1,0 +1,56 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "fde52195d77a384ecc1cbb5e121847ba6cabc0f2f3b052dc02116a025ed09bf0"
+    }
+  ],
+  "containerPath" : "/Users/nathan/Development/myCpp/AudioProgramming/workshop3/workshop3.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/nathan/Development/myCpp/AudioProgramming/workshop3/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/nathan/Development/myCpp/AudioProgramming/workshop3/Build/Products",
+      "derivedDataPath" : "/Users/nathan/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/nathan/Library/Developer/Xcode/DerivedData/workshop3-fqcybeuvimlcmbgtzmbjugjcrqhx/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nathan/Library/Developer/Xcode/DerivedData/workshop3-fqcybeuvimlcmbgtzmbjugjcrqhx/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/nathan/Development/myCpp/AudioProgramming/workshop3/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
