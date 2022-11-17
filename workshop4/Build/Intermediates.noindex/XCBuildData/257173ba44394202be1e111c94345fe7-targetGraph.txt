@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+workshop4 in workshop4, no dependencies
